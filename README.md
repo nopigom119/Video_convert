@@ -46,7 +46,7 @@ There are two ways to use this application:
 
 **A. Using the Executable (`.exe` file - Recommended for most users):**
 
-1.  Download the latest `Video_Converter_All_In_One.exe` file from the **[Releases](https://github.com/nopigom119/Video_convert/releases)** page of this repository.
+1.  Download the latest `Video_Converter_All_In_One.exe` file from **[this Google Drive link](https://drive.google.com/file/d/1uWNeVElvI7K7inmPDOD7nTRnizvpsgGG/view?usp=drive_link)**.
 2.  Run the `Video_Converter_All_In_One.exe` file.
 3.  **Interface Overview:**
     * The application has two main tabs: "Single File Conversion" and "Batch Folder Conversion."
@@ -142,7 +142,7 @@ For inquiries about this program, please contact [rycbabd@gmail.com].
 
 **A. 실행 파일 (`.exe` 파일 사용 - 대부분 사용자에게 권장):**
 
-1.  이 저장소의 **[Releases](https://github.com/nopigom119/Video_convert/releases)** 페이지에서 최신 `Video_Converter_All_In_One.exe` 파일을 다운로드합니다.
+1.  최신 `Video_Converter_All_In_One.exe` 파일을 **[이 구글 드라이브 링크](https://drive.google.com/file/d/1uWNeVElvI7K7inmPDOD7nTRnizvpsgGG/view?usp=drive_link)** 에서 다운로드합니다.
 2.  `Video_Converter_All_In_One.exe` 파일을 실행합니다.
 3.  **인터페이스 개요:**
     * 애플리케이션에는 "단일 파일 변환"과 "폴더 일괄 변환"의 두 가지 주요 탭이 있습니다.
