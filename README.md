@@ -1,13 +1,14 @@
 # Video_Converter_All_In_One (Video Converter / 비디오 변환 프로그램)
 
-An application that converts video files to various formats, supporting single file and batch folder conversions.
+An application that converts video files to various formats, supporting single file and batch folder conversions with a bilingual (Korean/English) user interface.
 
-This is a GUI-based application developed in Python using Tkinter and `moviepy`, designed to convert video files between various common formats. It supports both individual file processing and batch conversion of all videos within a selected folder.
+This is a GUI-based application developed in Python using Tkinter and `moviepy`, designed to convert video files between various common formats. It supports both individual file processing and batch conversion of all videos within a selected folder, and features a user interface that can be switched between Korean and English.
 
 ## Functionality and Purpose
 
 This program provides a user-friendly interface to manage and execute video conversion tasks:
 
+* **Bilingual Interface:** Supports both English and Korean user interfaces, switchable at runtime via a toggle button.
 * **Tabbed Interface:** Separate tabs for "Single File Conversion" and "Batch Folder Conversion" for a clear workflow.
 * **Supported Input Formats:** Works with common video formats like .mp4, .avi, .mov, .mkv, .wmv, .flv, .webm.
 * **Supported Output Formats:** Convert videos to MP4, AVI, MOV, WebM, or animated GIF.
@@ -49,6 +50,7 @@ There are two ways to use this application:
 1.  Download the latest `Video_Converter_All_In_One.exe` file from **[this Google Drive link](https://drive.google.com/file/d/1uWNeVElvI7K7inmPDOD7nTRnizvpsgGG/view?usp=drive_link)**.
 2.  Run the `Video_Converter_All_In_One.exe` file.
 3.  **Interface Overview:**
+    * A language toggle button ('한국어'/'English') is available at the top-right of the application, allowing you to switch the interface language at any time.
     * The application has two main tabs: "Single File Conversion" and "Batch Folder Conversion."
     * **Single File Conversion Tab:**
         * Click "파일 선택" (Select File) to choose a video file. The file path and original extension will be displayed.
@@ -96,14 +98,15 @@ For inquiries about this program, please contact [rycbabd@gmail.com].
 
 # Video_Converter_All_In_One (비디오 변환 프로그램)
 
-단일 파일 및 폴더 일괄 변환을 지원하여 비디오 파일을 다양한 형식으로 변환하는 애플리케이션입니다.
+한국어/영어 사용자 인터페이스를 지원하며, 단일 파일 및 폴더 일괄 변환을 통해 비디오 파일을 다양한 형식으로 변환하는 애플리케이션입니다.
 
-이 프로그램은 Tkinter와 `moviepy`를 사용하여 Python으로 개발된 GUI 기반 애플리케이션으로, 다양한 일반 비디오 파일 형식을 상호 변환하도록 설계되었습니다. 개별 파일 처리와 선택한 폴더 내 모든 비디오의 일괄 변환을 모두 지원합니다.
+이 프로그램은 Tkinter와 `moviepy`를 사용하여 Python으로 개발된 GUI 기반 애플리케이션으로, 다양한 일반 비디오 파일 형식을 상호 변환하도록 설계되었습니다. 개별 파일 처리와 선택한 폴더 내 모든 비디오의 일괄 변환을 모두 지원하며, 한국어와 영어 간 전환이 가능한 사용자 인터페이스를 제공합니다.
 
 ## 기능 및 목적
 
 본 프로그램은 비디오 변환 작업을 관리하고 실행하는 사용자 친화적인 인터페이스를 제공합니다:
 
+* **다국어 인터페이스:** 한국어 및 영어 사용자 인터페이스를 지원하며, 토글 버튼을 통해 실행 중 실시간으로 전환 가능합니다.
 * **탭 인터페이스:** 명확한 작업 흐름을 위해 "단일 파일 변환"과 "폴더 일괄 변환" 탭을 분리하여 제공합니다.
 * **지원 입력 형식:** .mp4, .avi, .mov, .mkv, .wmv, .flv, .webm과 같은 일반적인 비디오 형식을 지원합니다.
 * **지원 출력 형식:** 비디오를 MP4, AVI, MOV, WebM 또는 움직이는 GIF로 변환합니다.
@@ -145,6 +148,7 @@ For inquiries about this program, please contact [rycbabd@gmail.com].
 1.  최신 `Video_Converter_All_In_One.exe` 파일을 **[이 구글 드라이브 링크](https://drive.google.com/file/d/1uWNeVElvI7K7inmPDOD7nTRnizvpsgGG/view?usp=drive_link)** 에서 다운로드합니다.
 2.  `Video_Converter_All_In_One.exe` 파일을 실행합니다.
 3.  **인터페이스 개요:**
+    * 애플리케이션 우측 상단에 '한국어'/'English' 언어 전환 버튼이 있어 언제든지 인터페이스 언어를 변경할 수 있습니다.
     * 애플리케이션에는 "단일 파일 변환"과 "폴더 일괄 변환"의 두 가지 주요 탭이 있습니다.
     * **단일 파일 변환 탭:**
         * "파일 선택" 버튼을 클릭하여 비디오 파일을 선택합니다. 파일 경로와 원본 확장자가 표시됩니다.
