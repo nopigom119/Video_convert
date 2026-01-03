@@ -1,3 +1,13 @@
+# ⚠️ Project No Longer Maintained
+
+| Item | Description |
+| :--- | :--- |
+| **Status** | **No longer maintained / 지원 종료** |
+| **Alternative** | **[Video-Tool-Suite (VTS)](https://github.com/nopigom119/Video-Tool-Suite-VTS-)** |
+
+> This project is no longer under active development. Please refer to the link above for the latest updates.  
+> 이 프로젝트는 더 이상 개발되지 않습니다. 최신 업데이트는 위 링크를 참조해 주세요.
+
 # Video_Converter_All_In_One (Video Converter / 비디오 변환 프로그램)
 
 An application that converts video files to various formats, supporting single file and batch folder conversions with a bilingual (Korean/English) user interface.
